@@ -1,6 +1,8 @@
 # Fetal_brain_connectivity_and_preterm_birth_risk
 
-In this repository, you can find the codes needed to reproduce the results of the paper *The Maternal-Fetal Neurodevelopmental Groundings of Preterm Birth Risk*. 
+In this repository, you can find the codes needed to reproduce the results of the paper:
+
+*The Maternal-Fetal Neurodevelopmental Groundings of Preterm Birth Risk*. 
 
 Data are available upon request to dellarosa.pasquale@hsr.it
 
