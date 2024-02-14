@@ -1,6 +1,8 @@
 # Fetal_brain_connectivity_and_preterm_birth_risk
 
-In this repository, you can find the codes needed to reproduce the results of the paper. Data are avaialbe upon request to dellarosa.pasquale@hsr.it
+In this repository, you can find the codes needed to reproduce the results of the paper *The Maternal-Fetal Neurodevelopmental Groundings of Preterm Birth Risk*. 
+
+Data are available upon request to dellarosa.pasquale@hsr.it
 
 
 **Background:** Altered neurodevelopment is a major clinical sequela of Preterm Birth (PTB) being currently unexplored in-utero.  
